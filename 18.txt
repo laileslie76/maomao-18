@@ -1,7 +1,8 @@
- 
 {
 // spider
-"spider":"https://github.com/laileslie76/CatVodTVSpider",
+"spider":"https://github.com/laileslie76/xx/blob/main/ts.jar",
+
+
 "sites" : [
     {"name":"爬虫"},
 {"key": "csp_LiteApple"  ,"name":"苹果影视〔P〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
