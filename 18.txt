@@ -1,7 +1,7 @@
 {
 
 // spider
-"spider":"https://github.com/laileslie76/CatVodTVSpider",
+"spider":“https://github.com/laileslie76/maomao-18/blob/main/sprider0601.txt",
 
 "sites" : [
     {"name":"爬虫"},
